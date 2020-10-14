@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ttml": "xml",
+        "*.ttss": "css"
+    },
+    "editor.fontSize": 20,
+    "python.pythonPath": "C:\\HXK\\OPQRST\\Python\\Python39\\python.exe"
+}
